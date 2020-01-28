@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 /**
- * Reciever - Recieve API data.
+ * Reciever - The OAuth2 Server.
  *
  * @license MIT License. (https://github.com/Commander-Ant-Screwbin-Games/reciever/blob/master/license)
  *
